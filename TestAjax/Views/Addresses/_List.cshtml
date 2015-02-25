@@ -1,0 +1,47 @@
+﻿@model IEnumerable<TestAjax.Models.Address>
+
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <strong>Address List</strong>
+    </div>
+
+    @if (Model.Count() > 0)
+    {
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.City)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Street)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Phone)
+                </th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.City)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Street)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Phone)
+                    </td>
+                </tr>
+            }
+        </table>
+    }
+    else
+    {
+        @: <div class="text-muted">&nbsp;No addresses found.</div>
+    }
+</div>
+
+
+
