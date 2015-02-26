@@ -58,3 +58,33 @@ D:\Git_rep\TestAjaxified\TestAjax\bin\System.Web.WebPages.Razor.xml
 D:\Git_rep\TestAjaxified\TestAjax\obj\Debug\TestAjax.csprojResolveAssemblyReference.cache
 D:\Git_rep\TestAjaxified\TestAjax\obj\Debug\TestAjax.dll
 D:\Git_rep\TestAjaxified\TestAjax\obj\Debug\TestAjax.pdb
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\TestAjax.dll.config
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\TestAjax.dll
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\TestAjax.pdb
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\Antlr3.Runtime.dll
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\EntityFramework.dll
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\EntityFramework.SqlServer.dll
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\Microsoft.Web.Infrastructure.dll
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\Newtonsoft.Json.dll
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\System.Web.Helpers.dll
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\System.Web.Mvc.dll
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\System.Web.Optimization.dll
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\System.Web.Razor.dll
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\System.Web.WebPages.Deployment.dll
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\System.Web.WebPages.dll
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\System.Web.WebPages.Razor.dll
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\WebGrease.dll
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\Antlr3.Runtime.pdb
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\EntityFramework.xml
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\EntityFramework.SqlServer.xml
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\Newtonsoft.Json.xml
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\System.Web.Helpers.xml
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\System.Web.Mvc.xml
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\System.Web.Optimization.xml
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\System.Web.Razor.xml
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\System.Web.WebPages.xml
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\System.Web.WebPages.Deployment.xml
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\bin\System.Web.WebPages.Razor.xml
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\obj\Debug\TestAjax.csprojResolveAssemblyReference.cache
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\obj\Debug\TestAjax.dll
+D:\Git_rep\! MyImportantProject\TestAjaxified\TestAjax\obj\Debug\TestAjax.pdb
